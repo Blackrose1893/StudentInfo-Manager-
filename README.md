@@ -1,5 +1,5 @@
 # StudentInfo-Manager-
 
-A simple and efficient program to manage student records, allowing users to add, view, update, delete, and search student information with ease.
+A C++ console application simulating a university management system — manages department, HOD, and student records using OOP concepts (classes, encapsulation, member functions) with colored console output via Windows API.
 
 
